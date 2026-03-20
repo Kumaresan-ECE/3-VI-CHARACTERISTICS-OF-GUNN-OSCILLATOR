@@ -54,13 +54,15 @@ In a Gunn Oscillator, the Gunn diode is placed in a resonant cavity. In this cas
 *Note: After tuning the Gunn source, the procedure for VSWR & Impedance measurement depthof PIN modulator.*
 
 **B.Observation: ( Include your own Table relevant to the Experiment)** (Include Tabulation Part)
+<img width="936" height="423" alt="image" src="https://github.com/user-attachments/assets/79fc7c70-67c9-4c03-a4ac-dfa46d81d7bd" />
+<img width="1129" height="1507" alt="image" src="https://github.com/user-attachments/assets/e93d8dc6-0ca3-4323-9b2f-61aedd94fd53" />
 
 **C.Analysis of Results: (Write your own)**
-
+The I–V characteristics showed a distinct negative resistance region, confirming Gunn effect operation, and the measured frequency and power output increased with appropriate biasing, validating the diode’s microwave generation behavior.
 (Include sample calculations/Display/plot/typical graph)
 
 **D.Conclusions: (Write  your Own)**
-
+The experiment confirmed Gunn diode operation through its negative resistance region and showed that proper biasing enables stable microwave frequency and power generation.
 **Precautions:**
 
 •	Check the connections before switching on the kit.
@@ -68,4 +70,4 @@ In a Gunn Oscillator, the Gunn diode is placed in a resonant cavity. In this cas
 •	Observation should be taken properly.
 
 **Result:**
-
+The I–V characteristics showed a distinct negative resistance region, confirming Gunn effect operation, and the measured frequency and power output increased with appropriate biasing, validating the diode’s microwave generation behavior.
